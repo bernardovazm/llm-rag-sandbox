@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+venv/
+
+# Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test
+.pytest_cache/
+
+# Virtualenv
+.venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# HuggingFace / transformers
+.cache/
+.huggingface/
+transformers_cache/
+
+# Model offload and large data
+hf_offload/
+data/
+models/
+
+# Workspace and secrets
+.workspace/
+.env
+.env.*
+
+# Logs
+*.log
+
+# Windows
+*.exe
+
+# Misc
+coverage/
+htmlcov/
+
+# Lock files (if you prefer not to commit)
+poetry.lock
+*** End Patch

@@ -1,0 +1,9 @@
+langchain
+faiss-cpu
+requests
+pytest
+tqdm
+sentence-transformers
+numpy
+transformers
+beautifulsoup4
